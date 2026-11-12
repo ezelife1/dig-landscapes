@@ -15,4 +15,4 @@ Service: ${value('q-service')}
 Area/Postcode: ${value('q-area')}
 Project details: ${value('q-details')}
 
-I can attach photographs before sending.`;window.location.assign('https://wa.me/447496608609?text='+encodeURIComponent(message));});
+I can attach photographs before sending.`;window.location.assign('https://wa.me/447896713342?text='+encodeURIComponent(message));});
